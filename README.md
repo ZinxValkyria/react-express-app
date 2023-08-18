@@ -15,6 +15,6 @@ This is a basic template for a web application built using React on the front en
    cd react-express-app
    node server
 
-2. Cd into clientr and run "npm start:
+2. Cd into /client and run "npm start:
 
 
