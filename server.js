@@ -17,6 +17,6 @@ app.get('*', (req, res) => {
 
 
 // create a GET route
-app.get('/express_backend', (req, res) => { //Line 9
+app.get('/', (req, res) => { //Line 9
   res.send({ express: 'CI/CD enabled :)' }); //Line 10
 }); //Line 11
