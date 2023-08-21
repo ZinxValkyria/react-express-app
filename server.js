@@ -18,5 +18,5 @@ app.get('*', (req, res) => {
 
 // create a GET route
 app.get('/express_backend', (req, res) => { //Line 9
-  res.send({ express: 'YOUR make BACKEND IS CONNECTED TO REACT' }); //Line 10
+  res.send({ express: 'CI/CD enabled :)' }); //Line 10
 }); //Line 11
